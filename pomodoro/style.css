@@ -36,11 +36,11 @@ button:focus {
 /* Clock Body */
 
 .clock-container {
-  background-color: rgb(255, 255, 255); 
+  background-color: rgb(179, 227, 219); 
   width: 350px;
   border-radius: 20px;
   padding: 30px;
-  box-shadow: 10px 10px sienna;
+  box-shadow: 10px 10px rgb(121, 145, 141) inset;
 }
 
 /* Display + Stop/Start/Reset Controls */
