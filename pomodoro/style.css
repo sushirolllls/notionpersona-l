@@ -19,7 +19,7 @@ button:active {
   border: none;
   width: 20px;
   height: 15px;
-  border-radius: 90%;
+  border-radius: 100%;
   text-align: center;
   box-shadow: 0.2em 0.2em rgb(66, 138, 97);
   -webkit-box-shadow: 0.2em 0.2em rgb(66, 138, 97);
@@ -94,7 +94,7 @@ button:focus {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 30px;
+  width: 50px;
   height:30px;
 }
 
@@ -103,16 +103,16 @@ button:focus {
   text-align: center;
 /*   display: inline-block; */
   border: 1px solid rgb(104, 189, 158);
-  padding: 5px;
+  padding: 10px;
   border-radius: 5px;
   width: 15%;
 }
 
 .timer-length {
-  font-size: 1em;
+  font-size: 0.5em;
 }
 
 .break-container,
 .inc-arrow {
-  margin-right: 10px;
+  margin-right: 5px;
 }
