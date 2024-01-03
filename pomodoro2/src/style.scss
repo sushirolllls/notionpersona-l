@@ -58,7 +58,7 @@ body {
   }
   
   .get-started {
-    background: royalblue;
+    background: white;
     padding: 1.2rem 2rem;
     border-radius: 0.4rem;
     font-size: 1.8rem;
@@ -82,7 +82,7 @@ body {
 		&::before {
 			content: '';
 			position: absolute;
-			border: 10px solid royalblue;
+			border: 10px solid white;
 			border-radius: 50%;
 			width: 35rem;
 			height: 35rem;
