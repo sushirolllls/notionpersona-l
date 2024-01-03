@@ -63,7 +63,7 @@ button:focus {
 }
 
 #timer-label {
-  font-size: 8px;
+  font-size: 5px;
   text-align: center;
   padding-top: 1px;
   background-color: rgb(198, 204, 203);
@@ -105,14 +105,14 @@ button:focus {
   border: 1px solid rgb(104, 189, 158);
   padding: 10px;
   border-radius: 5px;
-  width: 15%;
+  width: 20%;
 }
 
 .timer-length {
-  font-size: 0.5em;
+  font-size: 0.8em;
 }
 
 .break-container,
 .inc-arrow {
-  margin-right: 5px;
+  margin-right: 3px;
 }
